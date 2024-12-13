@@ -1,0 +1,17 @@
+// team data
+{
+  "category": "Directors",
+  "image": "https://res.cloudinary.com/dm7inuhrr/image/upload/v1732628729/sunil_rocyts.png",
+  "name": "Mr. Sunil Newatia",
+  "position": "Chairman & Managing Director",
+  "linkedinUrl": "https://www.linkedin.com/in/johndoe",
+  "linkedinLogo": "https://res.cloudinary.com/dm7inuhrr/image/upload/v1732627831/linkedin_xihajp.png"
+}
+{
+  "category": "Operation",
+  "image": "https://res.cloudinary.com/dm7inuhrr/image/upload/v1732628715/pallu_xzvuo9.png",
+  "name": "Ms. Pallu Newatia",
+  "position": "Chairman & Managing Director",
+  "linkedinUrl": "https://www.linkedin.com/in/johndoe",
+  "linkedinLogo": "https://res.cloudinary.com/dm7inuhrr/image/upload/v1732627831/linkedin_xihajp.png"
+}
